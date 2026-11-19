@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "show_notification": false,
+  "ingredient": {
+    "item": "therings:raw_lumerite"
+  },
+  "result": {
+    "item": "therings:lumerite_ingot"
+  },
+  "experience": 1,
+  "cookingtime": 100
+}

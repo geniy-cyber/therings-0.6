@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: therings
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: therings
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-11-16T21:58:06+0500
+
